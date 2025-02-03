@@ -8,3 +8,6 @@
 #### git remote add origin https://github.com/arcanj0analu/DSA-CoursePy.git
 ##### git push -u origin main
 
+
+### Checagem de user:
+##### git config --global user.name
