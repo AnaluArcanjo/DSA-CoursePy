@@ -14,6 +14,9 @@
 ##### git config --global user.email
 
 
+##### git show
+##### --pretty=fuller        (para verificar se a data do autor do commit e a data do commit são diferentes)
+
 <!-- user now: AnaluArcanjo -->
 
 
