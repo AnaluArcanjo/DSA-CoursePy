@@ -11,9 +11,9 @@
 ### ____________________________________________________
 ### Checagem de user:
 ##### git config --global user.name
+##### config --global user.email seuemailaqui
 
 
 <!-- user now: AnaluArcanjo -->
 <!-- user old: arcanj0analu -->
-<!-- config --global user.email seuemailaqui -->
 
