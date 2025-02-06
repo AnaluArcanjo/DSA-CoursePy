@@ -11,5 +11,3 @@
 ### ____________________________________________________
 ### Checagem de user:
 ##### git config --global user.name
-
-
