@@ -13,8 +13,9 @@
 ##### git config --global user.name
 
 
-<!-- user old: arcanj0analu -->
 <!-- user now: AnaluArcanjo -->
+<!-- user old: arcanj0analu -->
+
 
 
 
