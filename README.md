@@ -17,5 +17,3 @@
 <!-- user old: arcanj0analu -->
 <!-- config --global user.email seuemailaqui -->
 
-
-
