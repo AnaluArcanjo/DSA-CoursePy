@@ -15,9 +15,5 @@
 
 
 <!-- user now: AnaluArcanjo -->
-<!-- user old: arcanj0analu -->
-
-
-
 
 
