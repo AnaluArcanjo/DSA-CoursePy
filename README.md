@@ -11,7 +11,13 @@
 ### ____________________________________________________
 ### Checagem de user:
 ##### git config --global user.name
-arcanj0analu
+
+
+<!-- user old: arcanj0analu -->
+<!-- user now: AnaluArcanjo -->
+
+
+
 
 
 
