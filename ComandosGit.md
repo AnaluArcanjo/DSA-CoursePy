@@ -1,3 +1,5 @@
+> Principais comandos Git - Repositório e Branch
+
 ### Criando um novo reposirório 
 <!-- #### echo "# DSA-CoursePy" >> README.md -->
 #####    git init
@@ -16,7 +18,7 @@
 </br></br> 
 
 ____________________________________________________ 
-> Checagem de user:
+### Checagem de user:
 ##### git config --global user.name
 ##### git config --global user.email
 
@@ -28,7 +30,9 @@ ____________________________________________________
 <!-- user now: AnaluArcanjo -->
 
 ### Trocando Branch
-
-
+##### ....
+</br></br> 
 
 ### Trocando de Repositório
+##### ....
+
