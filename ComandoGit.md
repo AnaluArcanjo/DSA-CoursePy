@@ -9,6 +9,10 @@
 ####    git push -u origin main
 
 ### Atualizando rep
+####    git init
+####    git add . 
+####    git commit -m "commit_here"
+####    git push
 
 ### ____________________________________________________
 ### Checagem de user:
@@ -17,6 +21,6 @@
 
 
 ##### git show
-##### --pretty=fuller        (para verificar se a data do autor do commit e a data do commit são diferentes)
+##### --pretty=fuller   (para verificar se a data do autor do commit e a data do commit são diferentes)
 
 
