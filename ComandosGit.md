@@ -36,3 +36,6 @@ ____________________________________________________
 ### Trocando de Repositório
 ##### ....
 
+ls               -   checando o Repositório/Caminhos e Pastas 
+git checkout     -   checando a Branch
+git show         -   mostra seu Usuário
