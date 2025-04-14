@@ -24,8 +24,7 @@ ____________________________________________________
 
 
 ##### git show
-##### --pretty=fuller   (para verificar se a data do autor do commit e a data do commit são diferentes)
-</br></br> </br></br> 
+</br></br> 
 
 <!-- user now: AnaluArcanjo -->
 
@@ -36,6 +35,6 @@ ____________________________________________________
 ### Trocando de Repositório
 ##### ....
 
-ls               -   checando o Repositório/Caminhos e Pastas 
-git checkout     -   checando a Branch
-git show         -   mostra seu Usuário
+ls               -   checando o Repositório/Caminhos e Pastas </br>
+git checkout     -   checando a Branch </br>
+git show         -   mostra seu Usuário </br>
