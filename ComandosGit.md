@@ -34,6 +34,7 @@ ____________________________________________________
 
 ### Trocando de Repositório
 ##### ....
+</br></br> 
 
 ls               -   checando o Repositório/Caminhos e Pastas </br>
 git checkout     -   checando a Branch </br>
