@@ -32,8 +32,18 @@ ____________________________________________________
 #### fazendo checkout de uma nova branch: </br> 
     git checkout -b NOME-DA-NOVA-BRANCH
 
-#### renomeando a branch: </br>
+#### renomeando uma branch existente: </br>
      git branch -m NOME-DA-BRANCH    NOVO-NOME-DA-BRANCH
+
+#### listando todas as branchs existentes: </br>
+     git branch
+     git branch -r      (branch remota)
+     gti branch -a      (branch local + remota)
+
+#### deletando uma branch existente: </br>
+     git branch -d NOME-DA-BRANCH
+     git branch -D a-       (executar esse comando, se o git reclamar que a branh n foi mesclada)
+
 
 </br>
 
