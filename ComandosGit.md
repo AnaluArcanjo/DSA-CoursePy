@@ -33,7 +33,7 @@ ____________________________________________________
     git checkout -b NOME-DA-NOVA-BRANCH
 
 #### renomeando a branch: </br>
-     git checkout NOME-DA-BRANCH
+     git branch -m NOME-DA-BRANCH    NOVO-NOME-DA-BRANCH
 
 </br>
 
