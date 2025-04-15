@@ -35,6 +35,10 @@ ____________________________________________________
 #### renomeando uma branch existente: </br>
      git branch -m NOME-DA-BRANCH    NOVO-NOME-DA-BRANCH
 
+#### comitando branch existente: </br>
+     git add NOME-ARQUIVO
+     git git commit -m "Alterações locais no NOME-ARQUIVO.extensao"    
+
 #### listando todas as branchs existentes: </br>
      git branch
      git branch -r      (branch remota)
@@ -43,6 +47,7 @@ ____________________________________________________
 #### deletando uma branch existente: </br>
      git branch -d NOME-DA-BRANCH
      git branch -D a-       (executar esse comando, se o git reclamar que a branh n foi mesclada)
+
 
 
 </br>
