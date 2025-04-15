@@ -37,11 +37,10 @@ ____________________________________________________
 
 </br>
 
-git pull </br>
-git merge </br>
-git push </br>
-
-git checkout BRANCH_MAIN > git pull origin BRANCH_MAIN > git merge NAME_BRANCH > git push origin main
+git checkout BRANCH_MAIN </br>
+git pull origin BRANCH_MAIN </br>
+git merge NAME_BRANCH </br>
+git push origin main</br>
 
 </br>
 
