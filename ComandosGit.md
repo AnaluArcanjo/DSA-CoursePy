@@ -49,7 +49,7 @@ ____________________________________________________
 
 #### Passo-a-passo para atualizar a Branch principal (HEAD): </br>
     git checkout HEAD 
-    git pull origin HEAD 
+    <!-- git pull origin HEAD  -->
     git merge NAME_BRANCH 
     git push origin HEAD 
 
