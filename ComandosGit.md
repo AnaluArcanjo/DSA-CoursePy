@@ -33,14 +33,15 @@ ____________________________________________________
     git checkout -b NOME-DA-NOVA-BRANCH
 
 #### renomeando a branch: </br>
-     git checkout nome_do_branch
+     git checkout NOME-DA-BRANCH
 
 </br>
 
-git checkout BRANCH_MAIN </br>
-git pull origin BRANCH_MAIN </br>
-git merge NAME_BRANCH </br>
-git push origin main</br>
+#### Passo-a-passo para atualizar a Branch principal (HEAD): </br>
+    git checkout HEAD 
+    git pull origin HEAD 
+    git merge NAME_BRANCH 
+    git push origin HEAD 
 
 </br>
 
