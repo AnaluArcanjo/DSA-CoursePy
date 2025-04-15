@@ -1,6 +1,6 @@
-> Principais comandos Git - Repositório e Branch
+> ## Principais comandos Git - Repositório e Branch
 
-### Criando um novo reposirório 
+> ### Criando um novo reposirório 
 <!-- #### echo "# DSA-CoursePy" >> README.md -->
 #####    git init
 #####    git add README.md   
@@ -10,7 +10,7 @@
 #####    git push -u origin main
 </br></br> 
 
-### Atualizando Repositório 
+> ### Atualizando Repositório 
 #####    git init
 #####    git add . 
 #####    git commit -m "commit_here"
@@ -18,24 +18,37 @@
 </br></br> 
 
 ____________________________________________________ 
-### Checagem de user:
-##### git config --global user.name
-##### git config --global user.email
-
-
-##### git show
-</br></br> 
-
 <!-- user now: AnaluArcanjo -->
 
-### Trocando Branch
+> ### Trocando de Repositório
 ##### ....
-</br></br> 
+</br>
 
-### Trocando de Repositório
-##### ....
+> ### Trocando Branch
+
+##### fazendo checkout de uma branch existente: </br>  git checkout NOME-DA-BRANCH
+
+##### fazendo checkout de uma nova branch: </br> git checkout -b NOME-DA-NOVA-BRANCH
+
+##### renomeando a branch: </br> git checkout nome_do_branch
+
+git pull </br>
+git merge </br>
+git push </br>
+
+</br>
+
+> ### Checagem de user:
+##### git config --global user.name
+##### git config --global user.email
+##### git show
+
 </br></br> 
 
 ls               -   checando o Repositório/Caminhos e Pastas </br>
 git checkout     -   checando a Branch </br>
 git show         -   mostra seu Usuário </br>
+
+
+
+
